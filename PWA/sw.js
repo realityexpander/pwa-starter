@@ -1,4 +1,4 @@
-self.addEventListener("install", e=>{
+self.addEventListener("install", e=> {
   console.log("Installed service worker")
   e.waitUntil(
     caches.open("static").then(cache => {
