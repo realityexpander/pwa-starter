@@ -1,0 +1,7 @@
+{
+  "name" : "CDA PWA Example",
+  "short_name":"PWA Example",
+  "start_url":".",
+  "background_color":"#6dcdb1",
+  "theme_color":"#009578"
+}
